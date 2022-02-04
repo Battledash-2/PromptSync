@@ -1,6 +1,6 @@
 {
   "name": "rl-sync",
-  "version": "1.0.0patch-1",
+  "version": "1.0.0patch-2",
   "description": "PromptSync is a synchronous prompt with support for Windows and Linux.",
   "main": "index.js",
   "scripts": {
